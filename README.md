@@ -29,14 +29,18 @@ DAY-1
 4. Video Games
 5. Text Analysis
 6. Healthcare
- 
-      [Link_to_be_displayed](Actual_Link)
-
-     [TYPES](https://pub.mdpi-res.com/sustainability/sustainability-13-05248/article_deploy/html/images/sustainability-13-05248-g002.png?1620632194)
- 
+  
+ - MACHINE LEARNING TECHNIQUES:
+   Machine learning uses a number of theories and techniques from data
+  1. CLASSIFICATION
+  2. CATEGORIZATION
+  3. CLUSTERING
+  4. TREND ANALYSIS
+  5. ANOMALY DETECTION
+  6. VISUALIZATION
+  7. DECISION MAKING
    
 
-   
  - Types of Machine Learning
   1. Supervised Learning
   2. Unsupervised Learning
@@ -47,8 +51,18 @@ DAY-1
   2. Unsupervised Learning : Unsupervised learning is when a machine learns patterns from data without labeled outcomes.
   3. Reinforcement Learning : Reinforcement learning is when an agent learns to make decisions by receiving rewards or penalties based on its actions.
 
-     -SUPERVISED ALGORITHMS
-    .
+
+
+      [Link_to_be_displayed](Actual_Link)
+
+     [TYPES](https://pub.mdpi-res.com/sustainability/sustainability-13-05248/article_deploy/html/images/sustainability-13-05248-g002.png?1620632194)
+ 
+   
+
+   
+
+
+     
 
      
   
