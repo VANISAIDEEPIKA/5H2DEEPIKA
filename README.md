@@ -2,11 +2,11 @@
 DAY-1
  INTRODUCTION TO AI 
  
- Introduction to ML
-  -MACHINE LEARNING
-  -Relationship between AI & ML
-  - Why Machine Learning?
-  - Traditional Apporoach VS Machine Learning Approach
+ - Introduction to ML       
+ - MACHINE LEARNING
+ - Relationship between AI & ML
+ - Why Machine Learning?
+ - Traditional Apporoach VS Machine Learning Approach
 
    - Applications:  
     1. Health   
@@ -31,14 +31,14 @@ DAY-1
 6. Healthcare
   
  - MACHINE LEARNING TECHNIQUES:
-   Machine learning uses a number of theories and techniques from data
-  1. CLASSIFICATION
-  2. CATEGORIZATION
-  3. CLUSTERING
-  4. TREND ANALYSIS
-  5. ANOMALY DETECTION
-  6. VISUALIZATION
-  7. DECISION MAKING
+  Machine learning uses a number of theories and techniques from data
+ 1. CLASSIFICATION
+ 2. CATEGORIZATION
+ 3. CLUSTERING
+ 4. TREND ANALYSIS
+ 5. ANOMALY DETECTION
+ 6. VISUALIZATION
+ 7. DECISION MAKING
    
 
  - Types of Machine Learning
