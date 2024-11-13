@@ -8,11 +8,11 @@ DAY-1
   - Why Machine Learning?
   - Traditional Apporoach VS Machine Learning Approach
 
-    Applications:
-    1.Health
-    2.Government
-    3.Education
-    4.Agriculture
+   - Applications:  
+    1. Health   
+    2. Government   
+    3. Education   
+    4. Agriculture  
     
 
     [Link_to_be_displayed](Actual_Link)
@@ -21,7 +21,17 @@ DAY-1
 
 
    DAY-2
-   
+ - Types of Machine Learning
+  1. Supervised Learning
+  2. Unsupervised Learning
+  3. Reinforcement Learning
+
+'''
+  1. Supervised Learning : Supervised learning is a process of providing input data as well as correct output data to the machine learning model. 
+  2. Usupervisd   
+     
+  
+     
    
    
     
