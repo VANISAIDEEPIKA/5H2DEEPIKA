@@ -21,6 +21,22 @@ DAY-1
 
 
    DAY-2
+   
+ - Applications of Machine Learning:
+1. Image processing
+2. Robotics
+3. Data Mining
+4. Video Games
+5. Text Analysis
+6. Healthcare
+ 
+      [Link_to_be_displayed](Actual_Link)
+
+     [TYPES](https://pub.mdpi-res.com/sustainability/sustainability-13-05248/article_deploy/html/images/sustainability-13-05248-g002.png?1620632194)
+ 
+   
+
+   
  - Types of Machine Learning
   1. Supervised Learning
   2. Unsupervised Learning
@@ -28,7 +44,12 @@ DAY-1
 
 '''
   1. Supervised Learning : Supervised learning is a process of providing input data as well as correct output data to the machine learning model. 
-  2. Usupervisd   
+  2. Unsupervised Learning : Unsupervised learning is when a machine learns patterns from data without labeled outcomes.
+  3. Reinforcement Learning : Reinforcement learning is when an agent learns to make decisions by receiving rewards or penalties based on its actions.
+
+     -SUPERVISED ALGORITHMS
+    .
+
      
   
      
