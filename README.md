@@ -8,12 +8,11 @@ DAY-1
  - Why Machine Learning?
  - Traditional Apporoach VS Machine Learning Approach
 
-   - Applications:  
-    1.  Health   
-    2.  Government   
-    3.  Education   
-    4.  Agriculture  
-    
+  - Applications
+  1. Health
+  2. Agriculture
+  3. Government
+  4. Education 
 
     [Link_to_be_displayed](Actual_Link)
 
