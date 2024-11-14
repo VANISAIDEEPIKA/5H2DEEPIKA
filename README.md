@@ -45,7 +45,7 @@ DAY-1
   2. Unsupervised Learning
   3. Reinforcement Learning
 
-
+'''
   1. Supervised Learning : Supervised learning is a process of providing input data as well as correct output data to the machine learning model. 
   2. Unsupervised Learning : Unsupervised learning is when a machine learns patterns from data without labeled outcomes.
   3. Reinforcement Learning : Reinforcement learning is when an agent learns to make decisions by receiving rewards or penalties based on its actions.
