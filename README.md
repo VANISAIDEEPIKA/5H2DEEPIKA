@@ -2,13 +2,13 @@
 DAY-1
  INTRODUCTION TO AI 
  
- - Introduction to ML       
+  Introduction to ML       
  - MACHINE LEARNING
  - Relationship between AI & ML
  - Why Machine Learning?
  - Traditional Apporoach VS Machine Learning Approach
 
-  - Applications
+   Applications
   1. Health
   2. Agriculture
   3. Government
@@ -21,7 +21,7 @@ DAY-1
 
    DAY-2
    
- - Applications of Machine Learning:
+  Applications of Machine Learning:
 1. Image processing
 2. Robotics
 3. Data Mining
@@ -29,7 +29,7 @@ DAY-1
 5. Text Analysis
 6. Healthcare
   
- - MACHINE LEARNING TECHNIQUES:
+  MACHINE LEARNING TECHNIQUES:
   Machine learning uses a number of theories and techniques from data
  1. CLASSIFICATION
  2. CATEGORIZATION
@@ -40,12 +40,12 @@ DAY-1
  7. DECISION MAKING
    
 
- - Types of Machine Learning
+  Types of Machine Learning
   1. Supervised Learning
   2. Unsupervised Learning
   3. Reinforcement Learning
 
-'''
+
   1. Supervised Learning : Supervised learning is a process of providing input data as well as correct output data to the machine learning model. 
   2. Unsupervised Learning : Unsupervised learning is when a machine learns patterns from data without labeled outcomes.
   3. Reinforcement Learning : Reinforcement learning is when an agent learns to make decisions by receiving rewards or penalties based on its actions.
