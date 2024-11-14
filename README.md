@@ -9,10 +9,10 @@ DAY-1
  - Traditional Apporoach VS Machine Learning Approach
 
    - Applications:  
-    1. Health   
-    2. Government   
-    3. Education   
-    4. Agriculture  
+    1.  Health   
+    2.  Government   
+    3.  Education   
+    4.  Agriculture  
     
 
     [Link_to_be_displayed](Actual_Link)
