@@ -21,6 +21,17 @@ DAY-1
    [BOOKS](https://w0.peakpx.com/wallpaper/846/104/HD-wallpaper-books-aesthetic-thumbnail.jpg)
 
 
+| HEAD 1 | HEAD 2| HEAD 3|
+|--------|-------|-------|
+|--------|-------|-------|
+|--------|-------|-------|
+|--------|-------|-------|
+|--------|-------|-------|
+
+
+
+
+
    DAY-2
    
   Applications of Machine Learning:
