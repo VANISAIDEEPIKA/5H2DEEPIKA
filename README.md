@@ -59,6 +59,14 @@ DAY-1
   3. Reinforcement Learning
 
 
+    [Link_to_be_displayed](Actual_Link)
+
+    [Types](https://cdn.prod.website-files.com/614c82ed388d53640613982e/63ef65a6f796e384c99f3b03_types%20of%20machine%20learning.jpg)
+
+
+
+
+
 '''
 
   1. Supervised Learning : Supervised learning is a process of providing input data as well as correct output data to the machine learning model. 
