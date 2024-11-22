@@ -1,4 +1,4 @@
-# 5H2DEEPIKA
+# SKILL DEVELOPMENT
 DAY-1
  INTRODUCTION TO AI 
  
@@ -20,13 +20,18 @@ DAY-1
 
    [BOOKS](https://w0.peakpx.com/wallpaper/846/104/HD-wallpaper-books-aesthetic-thumbnail.jpg)
 
+   a=9
+   b=3
+   print(a+b)
+   
+| HEAD 1      | HEAD 2           | HEAD 3                    |
+|-------------|------------------|---------------------------|
+| DATA TYPE   | EXAMPLE VALUES   | DESCRIPTION               |
+| int         | 1, 2, 3          | Integer values            |
+| float       | 5.9, 4.5         | Decimal numbers           |
+| dict        | {"key": "value"} | Key-value pairs           |
 
-| HEAD 1 | HEAD 2| HEAD 3|
-|--------|-------|-------|     
-|--------|-------|-------|   
-|--------|-------|-------|   
-|--------|-------|-------|   
-|--------|-------|-------|      
+     
 
 
 
@@ -57,14 +62,6 @@ DAY-1
   1. Supervised Learning
   2. Unsupervised Learning
   3. Reinforcement Learning
-
-
-    [Link_to_be_displayed](Actual_Link)
-
-    [Types](https://cdn.prod.website-files.com/614c82ed388d53640613982e/63ef65a6f796e384c99f3b03_types%20of%20machine%20learning.jpg)
-
-
-
 
 
 '''
