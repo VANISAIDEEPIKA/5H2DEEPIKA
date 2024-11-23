@@ -33,13 +33,6 @@ DAY-1
 | float       | 5.9, 4.5         | Decimal numbers           |
 | dict        | {"key": "value"} | Key-value pairs           |
 
-     
-| HEAD 1      | HEAD 2           | HEAD 3                    |
-|-------------|------------------|---------------------------|
-| S.NO        | TITLE            | LINK                      |
-| int         | 1, 2, 3          | Integer values            |
-| float       | 5.9, 4.5         | Decimal numbers           |
-| dict        | {"key": "value"} | Key-value pairs           |
 
 
 
@@ -85,6 +78,12 @@ DAY-1
    
 
    
+
+| S.NO        | TITLE            | LINK                      |
+|-------------|------------------|---------------------------|
+| int         | 1, 2, 3          | Integer values            |
+| float       | 5.9, 4.5         | Decimal numbers           |
+| dict        | {"key": "value"} | Key-value pairs           |
 
 
      
