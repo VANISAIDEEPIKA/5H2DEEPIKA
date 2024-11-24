@@ -104,7 +104,8 @@ print(greet("Deepika"))
 
 ---
 
-DAY-1
+# DAY-1
+
  INTRODUCTION TO AI 
  
   Introduction to ML       
@@ -145,7 +146,7 @@ print(a + b)
 
 ---
 
-   DAY-2
+  # DAY-2
    
   Applications of Machine Learning:
 1. Image processing
@@ -156,7 +157,9 @@ print(a + b)
 6. Healthcare
   
   MACHINE LEARNING TECHNIQUES:
+  
   Machine learning uses a number of theories and techniques from data
+  
  1. CLASSIFICATION
  2. CATEGORIZATION
  3. CLUSTERING
