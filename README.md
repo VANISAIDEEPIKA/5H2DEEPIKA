@@ -142,6 +142,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields
 # Python Fundamentals
 ### Introduction  
 Python is a high-level, versatile programming language known for its simplicity and readability, making it ideal for beginners and experts alike.
+It was created by Guido Van Rossum, and released in 1991.
 
 ### It Is Used For:  
 - Web development (Django, Flask)  
