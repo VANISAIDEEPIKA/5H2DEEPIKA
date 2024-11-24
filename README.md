@@ -79,11 +79,11 @@ DAY-1
 
    
 
-| S.NO        | TITLE            | LINK                      |
-|-------------|------------------|---------------------------|
-| int         | 1, 2, 3          | Integer values            |
-| float       | 5.9, 4.5         | Decimal numbers           |
-| dict        | {"key": "value"} | Key-value pairs           |
+| S.NO        | TITLE            | LINK                                           |
+|-------------|------------------|------------------------------------------------|
+|    1.       |  Python Basics   | [ASSIGNMENT-1](assignments/Assignment_01.ipynb)|
+|    2.       |  NumPy Programs	 | [NUMPY](assignments/100_Numpy_exercises.ipynb) |
+|    3.       |  Pandas Programs | [PANDAS](assignments/100_pandas_puzzles.ipynb) |
 
 
      
