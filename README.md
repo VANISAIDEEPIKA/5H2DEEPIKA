@@ -51,7 +51,7 @@ print(a + b)
 
 ---
 
- # DAY-2
+# DAY-2
    
   Applications of Machine Learning:
 1. Image processing
