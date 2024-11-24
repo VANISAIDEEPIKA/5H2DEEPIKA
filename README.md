@@ -9,14 +9,14 @@
 
 
 
-# **1. Introduction to AI/ML**
+# ** Introduction to AI/ML**
 Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields of technology enabling machines to perform tasks that typically require human intelligence.  
 - **AI**: Focuses on creating systems capable of mimicking human cognitive processes like problem-solving, learning, and reasoning.  
 - **ML**: A subset of AI, uses algorithms and statistical models to enable systems to improve their performance on a task with experience.  
 
 ---
 
-# **2. Examples of AI and ML**
+# ** Examples of AI and ML**
 - **AI Examples**:
   - Voice Assistants (Alexa, Siri)
   - Recommendation Systems (Netflix, Spotify)  
@@ -30,7 +30,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields
 
 ---
 
-# **3. Applications in Different Domains**  
+# ** Applications in Different Domains**  
 - **Finance**: Credit scoring, algorithmic trading, fraud detection  
 - **Government**: Policy analysis, smart cities, citizen services  
 - **Healthcare**: Disease diagnosis, personalized medicine, drug discovery  
@@ -39,7 +39,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields
 
 ---
 
-# **4. Difference Between AI, ML, and DL**
+# **Difference Between AI, ML, and DL**
 | **Feature**          | **AI**                         | **ML**                        | **DL**                          |
 |-----------------------|--------------------------------|-------------------------------|----------------------------------|
 | **Definition**        | Broad science of mimicking human intelligence. | Subset of AI using data to learn. | Subset of ML focusing on neural networks. |
@@ -48,7 +48,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields
 
 ---
 
-# **5. Python Fundamentals**
+# **Python Fundamentals**
 ### **Introduction**  
 Python is a high-level, versatile programming language known for its simplicity and readability, making it ideal for beginners and experts alike.
 
@@ -67,7 +67,7 @@ Python is a high-level, versatile programming language known for its simplicity 
 
 ---
 
-# **6. Libraries in Python for AI/ML**  
+# ** Libraries in Python for AI/ML**  
 - **Numpy**: Numerical computations  
 - **Pandas**: Data manipulation and analysis  
 - **Matplotlib/Seaborn**: Data visualization  
@@ -76,14 +76,14 @@ Python is a high-level, versatile programming language known for its simplicity 
 
 ---
 
-# **7. Control Statements in Python**  
+# ** Control Statements in Python**  
 - **Conditional Statements**: `if`, `elif`, `else`  
 - **Loops**: `for`, `while`  
 - **Break and Continue**: To manage loop execution  
 
 ---
 
-# **8. Functions in Python**  
+# ** Functions in Python**  
 - **Built-in Functions**: e.g., `print()`, `len()`  
 - **User-defined Functions**: Created with `def` keyword  
 
