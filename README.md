@@ -11,7 +11,7 @@
 
 #  Introduction to AI/ML
 Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields of technology enabling machines to perform tasks that typically require human intelligence.  
-- AI: Focuses on creating systems capable of mimicking human cognitive processes like problem-solving, learning, and reasoning.  
+- AI:Focuses on creating systems capable of mimicking human thought processes like problem-solving, learning, and reasoning. 
 - ML: A subset of AI, uses algorithms and statistical models to enable systems to improve their performance on a task with experience.  
 
 ---
