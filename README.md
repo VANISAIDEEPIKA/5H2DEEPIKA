@@ -126,21 +126,18 @@ DAY-1
    [BOOKS](https://w0.peakpx.com/wallpaper/846/104/HD-wallpaper-books-aesthetic-thumbnail.jpg)
 
    
-  Example:
-   
-   ```
-      Python
-   a=9    
-   b=3  
-   print(a+b)
-   ```
-  ---    
-
-   
-   
-| HEAD 1      | HEAD 2           | HEAD 3                    |
+  Example:  
+```python
+Python
+a = 9
+b = 3
+print(a + b)
+```
+    
+   HOW TO CREATE A TABLE:      
+    
+| DATA TYPE   |   EXAMPLE VALUES  |   DESCRIPTION            |
 |-------------|------------------|---------------------------|
-| DATA TYPE   | EXAMPLE VALUES   | DESCRIPTION               |
 | int         | 1, 2, 3          | Integer values            |
 | float       | 5.9, 4.5         | Decimal numbers           |
 | dict        | {"key": "value"} | Key-value pairs           |
