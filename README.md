@@ -95,7 +95,8 @@ print(a + b)
    
  ---
 
-  # DAY-3
+# DAY-3
+
 
 #  Introduction to AI/ML
 Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields of technology enabling machines to perform tasks that typically require human intelligence.  
