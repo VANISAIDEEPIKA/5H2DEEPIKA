@@ -102,6 +102,7 @@ print(greet("Deepika"))
 - High flexibility for various domains (AI, ML, web development)  
 - Rapid development and   prototyping
 
+---
 
 DAY-1
  INTRODUCTION TO AI 
@@ -124,9 +125,13 @@ DAY-1
 
    [BOOKS](https://w0.peakpx.com/wallpaper/846/104/HD-wallpaper-books-aesthetic-thumbnail.jpg)
 
+   Python
+   ```
    a=9    
    b=3  
-   print(a+b)     
+   print(a+b)
+   ```
+  ---    
 
    
    
