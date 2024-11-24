@@ -125,6 +125,8 @@ DAY-1
 
    [BOOKS](https://w0.peakpx.com/wallpaper/846/104/HD-wallpaper-books-aesthetic-thumbnail.jpg)
 
+   
+  Example:
    Python
    ```
    a=9    
