@@ -51,7 +51,7 @@ print(a + b)
 
 ---
 
-  # DAY-2
+ # DAY-2
    
   Applications of Machine Learning:
 1. Image processing
@@ -127,12 +127,14 @@ Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields
 
 ---
 
-# **Difference Between AI, ML, and DL**
-| **Feature**          | **AI**                         | **ML**                        | **DL**                          |
-|-----------------------|--------------------------------|-------------------------------|----------------------------------|
-| **Definition**        | Broad science of mimicking human intelligence. | Subset of AI using data to learn. | Subset of ML focusing on neural networks. |
-| **Focus**            | Problem-solving, reasoning.   | Predictive analysis, learning patterns. | High-dimensional data analysis, image/speech recognition. |
-| **Examples**         | Robotics, expert systems.     | Fraud detection, recommendations. | Deepfake generation, NLP tasks. |
+# **Difference Between AI, ML, and DL**          
+         
+| **Feature**          | **AI**                                         | **ML**                                 | **DL**                                                    |
+|----------------------|------------------------------------------------|----------------------------------------|-----------------------------------------------------------|
+| **Definition**       | Broad science of mimicking human intelligence. | Subset of AI using data to learn.      | Subset of ML focusing on neural networks.                 |
+| **Focus**            | Problem-solving, reasoning.                    | Predictive analysis, learning patterns.| High-dimensional data analysis, image/speech recognition. |
+| **Examples**         | Robotics, expert systems.                      | Fraud detection, recommendations.      | Deepfake generation, NLP tasks.                           |
+
 
 ---
 
@@ -186,7 +188,7 @@ Python functions are blocks of reusable code designed to perform specific tasks.
 - Simple syntax for complex applications  
 - Comprehensive standard library  
 - High flexibility for various domains (AI, ML, web development)  
-- Rapid development and   prototyping
+- Rapid development and prototyping
 
 ---
 
