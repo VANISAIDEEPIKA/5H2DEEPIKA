@@ -7,22 +7,22 @@
 |    2.       |  NumPy Programs	 | [NUMPY](assignments/100_Numpy_exercises.ipynb) |
 |    3.       |  Pandas Programs | [PANDAS](assignments/100_pandas_puzzles.ipynb) |
 
+---
 
-
-# ** Introduction to AI/ML**
+#  Introduction to AI/ML
 Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields of technology enabling machines to perform tasks that typically require human intelligence.  
-- **AI**: Focuses on creating systems capable of mimicking human cognitive processes like problem-solving, learning, and reasoning.  
-- **ML**: A subset of AI, uses algorithms and statistical models to enable systems to improve their performance on a task with experience.  
+- AI: Focuses on creating systems capable of mimicking human cognitive processes like problem-solving, learning, and reasoning.  
+- ML: A subset of AI, uses algorithms and statistical models to enable systems to improve their performance on a task with experience.  
 
 ---
 
-# ** Examples of AI and ML**
-- **AI Examples**:
+#  Examples of AI and ML
+- AI Examples:
   - Voice Assistants (Alexa, Siri)
   - Recommendation Systems (Netflix, Spotify)  
   - Autonomous Vehicles  
   - Smart Home Devices  
-- **ML Examples**:
+- ML Examples:
   - Spam Email Detection  
   - Fraud Detection Systems  
   - Predictive Maintenance in industries  
@@ -30,12 +30,12 @@ Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields
 
 ---
 
-# ** Applications in Different Domains**  
-- **Finance**: Credit scoring, algorithmic trading, fraud detection  
-- **Government**: Policy analysis, smart cities, citizen services  
-- **Healthcare**: Disease diagnosis, personalized medicine, drug discovery  
-- **Education**: Personalized learning systems, virtual tutors  
-- **Entertainment**: Content recommendations, gaming AI, virtual reality  
+#  Applications in Different Domains
+- Finance: Credit scoring, algorithmic trading, fraud detection  
+- Government: Policy analysis, smart cities, citizen services  
+- Healthcare: Disease diagnosis, personalized medicine, drug discovery  
+- Education: Personalized learning systems, virtual tutors  
+- Entertainment: Content recommendations, gaming AI, virtual reality  
 
 ---
 
@@ -48,18 +48,18 @@ Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields
 
 ---
 
-# **Python Fundamentals**
-### **Introduction**  
+# Python Fundamentals
+### Introduction  
 Python is a high-level, versatile programming language known for its simplicity and readability, making it ideal for beginners and experts alike.
 
-### **It Is Used For**:  
+### It Is Used For:  
 - Web development (Django, Flask)  
 - Data analysis and visualization  
 - Machine Learning and AI  
 - Automation and scripting  
 - Game development  
 
-### **Why Python?**  
+### Why Python?  
 - Easy-to-read syntax  
 - Extensive libraries and frameworks  
 - Large community support  
@@ -67,25 +67,25 @@ Python is a high-level, versatile programming language known for its simplicity 
 
 ---
 
-# ** Libraries in Python for AI/ML**  
-- **Numpy**: Numerical computations  
-- **Pandas**: Data manipulation and analysis  
-- **Matplotlib/Seaborn**: Data visualization  
-- **Scikit-learn**: Classical ML algorithms  
-- **TensorFlow/PyTorch**: Deep Learning frameworks  
+#  Libraries in Python for AI/ML  
+- Numpy: Numerical computations  
+- Pandas: Data manipulation and analysis  
+- Matplotlib/Seaborn: Data visualization  
+- Scikit-learn: Classical ML algorithms  
+- TensorFlow/PyTorch: Deep Learning frameworks  
 
 ---
 
-# ** Control Statements in Python**  
-- **Conditional Statements**: `if`, `elif`, `else`  
-- **Loops**: `for`, `while`  
-- **Break and Continue**: To manage loop execution  
+#  Control Statements in Python
+- Conditional Statements: `if`, `elif`, `else`  
+- Loops: `for`, `while`  
+- Break and Continue: To manage loop execution  
 
 ---
 
-# ** Functions in Python**  
-- **Built-in Functions**: e.g., `print()`, `len()`  
-- **User-defined Functions**: Created with `def` keyword  
+#  Functions in Python  
+- Built-in Functions: e.g., `print()`, `len()`  
+- User-defined Functions: Created with `def` keyword  
 
 Example:  
 ```python  
@@ -96,7 +96,7 @@ print(greet("Deepika"))
 
 ---
 
-# **9. Why Is Python Predominantly Used?**  
+#  Why Is Python Predominantly Used?  
 - Simple syntax for complex applications  
 - Comprehensive standard library  
 - High flexibility for various domains (AI, ML, web development)  
@@ -127,8 +127,9 @@ DAY-1
 
    
   Example:
-   Python
+   
    ```
+      Python
    a=9    
    b=3  
    print(a+b)
@@ -145,7 +146,7 @@ DAY-1
 | dict        | {"key": "value"} | Key-value pairs           |
 
 
-
+---
 
    DAY-2
    
