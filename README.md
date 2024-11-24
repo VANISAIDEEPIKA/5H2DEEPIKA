@@ -95,7 +95,7 @@ print(a + b)
    
  ---
 
-   # DAY-3
+  # DAY-3
 
 #  Introduction to AI/ML
 Artificial Intelligence (AI) and Machine Learning (ML) are transformative fields of technology enabling machines to perform tasks that typically require human intelligence.  
@@ -154,6 +154,16 @@ Python is a high-level, versatile programming language known for its simplicity 
 - Extensive libraries and frameworks  
 - Large community support  
 - Platform independence  
+
+---
+# Installation:
+
+- Download: Visit Python's official website and download the latest version for learning.
+-  Setup: During installation, enable the option "add python to path" (Use environment variables).
+-  You can use tools like Visual Studio Code, Google Colab, Jupyter Notebook, or other IDEs to write and run Python code.
+-  Verify Installation:
+   - Open Command Prompt.
+   - Run: `python --version`
 
 ---
 
