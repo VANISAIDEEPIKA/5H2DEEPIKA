@@ -1,7 +1,7 @@
 # SKILL DEVELOPMENT
 
 
-| S.NO        | TITLE            | LINK                                           |
+| S.NO        | ASSIGNMENT       | LINK                                           |
 |-------------|------------------|------------------------------------------------|
 |    1.       |  Python Basics   | [ASSIGNMENT-1](assignments/Assignment_01.ipynb)|
 |    2.       |  NumPy Programs	 | [NUMPY](assignments/100_Numpy_exercises.ipynb) |
