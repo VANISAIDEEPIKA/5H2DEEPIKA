@@ -204,13 +204,50 @@ Python functions are blocks of reusable code designed to perform specific tasks.
 
 ---
 
-# DAY4
+# DAY-4
 ----
-# Regression Analysis
- Regression Analysis is a statistical method used to model the relationship between a dependent variable (Y) and one or more independent variable(X) 
-     
+  # **Regression Analysis**
 
-     
+Regression analysis is a statistical method used to explore and model the relationship between a dependent variable(Y) and one or more independent variables (X).
+It helps predict outcomes and understand how variables are related.
+
+---
+
+## **Types of Regression Analysis**
+
+### **1. Linear Regression**
+- **Purpose**: To model a linear relationship between a dependent variable and one or more independent variables.
+- **Equation**:  
+  \[
+  Y = β0 + β1 X + ε
+  \]
+  - Y: Dependent variable  
+  - X: Independent variable  
+  - β0: Intercept (value of \(Y\) when \(X = 0\))  
+  - β1: Slope or coefficient (rate of change in \(Y\) with respect to \(X\))  
+  - ε : Error term (captures the deviation of observed values from the predicted values)
+
+- **Key Assumptions**:
+  1. The relationship between \(X\) and \(Y\) is linear.
+  2. The residuals (errors) are normally distributed.
+  3. Homoscedasticity: The variance of residuals is constant across all values of \(X\).
+
+- **Example**:
+  Predicting house prices based on square footage.
+
+---
+
+### **2. Logistic Regression**
+- **Purpose**: To model the probability of a binary or categorical outcome. It predicts the likelihood of an event occurring.
+
+---
+
+## **Applications**
+- **Linear Regression**: Predicting revenue, house prices, or stock prices.  
+- **Logistic Regression**: Predicting customer churn, loan default, or disease diagnosis.
+
+Both methods are fundamental in data science and machine learning, each suited to different types of problems.
+
   
      
    
